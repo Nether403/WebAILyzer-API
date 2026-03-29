@@ -1,6 +1,8 @@
 # WebAIlyzer Lite API
 
+
 A minimal, lightweight web technology detection API built with Go. Provides simple HTTP endpoints for analyzing websites and detecting technologies using the wappalyzer engine.
+
 
 > 🧹 **Clean & Simple**: This repository has been cleaned and optimized for minimal complexity and maximum usability.
 
